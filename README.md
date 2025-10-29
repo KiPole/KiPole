@@ -13,7 +13,10 @@
 - **블로그**: [신기루 깃발 아래...](https://blog.naver.com/duckjiny/224055957421)
 
 ## 프로젝트 구조
-KiPole/ ├── docs/legacy/          ← 8체질 원본 (Eight-directions) ├── dataset/raw/          ← 혈자리 사진 (elon_musk/) ├── analysis/             ← NCE AI 분석 코드 └── index.html            ← KiPole.github.io
+KiPole/ 
+├── docs/legacy/          ← 8체질 원본 (Eight-directions) 
+├── dataset/raw/          ← 혈자리 사진 (elon_musk/) 
+├── analysis/             ← NCE AI 분석 코드 └── index.html            ← KiPole.github.io
 
 ## 다음 단계
 1. 8체질 쌍 매핑 문서화  
